@@ -17,4 +17,4 @@ If prop is tracks and value isn't an empty string, add the value to the end of t
 Note: A copy of the recordCollection object is used for the tests. You should not directly modify the recordCollection object.
 
 
-My notes: This code does have inefficiences and can be improved.
+My notes: This code does have inefficiences and can be improved as suggested by chatgpt4 LOL.
